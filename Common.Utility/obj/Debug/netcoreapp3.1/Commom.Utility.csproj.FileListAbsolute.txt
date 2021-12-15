@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Commom.Utility\Commom.Utility\bin\Debug\netcoreapp3.1\Commom.Utility.deps.json
+C:\Users\Administrator\Desktop\Commom.Utility\Commom.Utility\bin\Debug\netcoreapp3.1\Commom.Utility.dll
+C:\Users\Administrator\Desktop\Commom.Utility\Commom.Utility\bin\Debug\netcoreapp3.1\Commom.Utility.pdb
+C:\Users\Administrator\Desktop\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.dll
+C:\Users\Administrator\Desktop\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.pdb
+D:\Commom.Utility\Commom.Utility\bin\Debug\netcoreapp3.1\Commom.Utility.deps.json
+D:\Commom.Utility\Commom.Utility\bin\Debug\netcoreapp3.1\Commom.Utility.dll
+D:\Commom.Utility\Commom.Utility\bin\Debug\netcoreapp3.1\Commom.Utility.pdb
+D:\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.csprojAssemblyReference.cache
+D:\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.AssemblyInfoInputs.cache
+D:\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.AssemblyInfo.cs
+D:\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.csproj.CoreCompileInputs.cache
+D:\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.dll
+D:\Commom.Utility\Commom.Utility\obj\Debug\netcoreapp3.1\Commom.Utility.pdb
